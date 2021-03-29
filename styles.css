@@ -1,0 +1,26 @@
+nav{
+color: yellow;
+font-size: medium;
+}
+
+h1{
+font-size: xx-large;
+color: blue;
+font-weight: bolder;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+body{
+background-image: url(/images/book1.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+color:yellow;
+font-size: xx-large;
+font-weight: bold;
+font-family: Arial, sans-serif;
+}
+
+footer{
+
+}
